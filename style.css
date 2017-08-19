@@ -1,0 +1,54 @@
+.body{
+  
+}
+.display{
+  display: block;
+  width: inherit;
+  border: 0;
+  margin: 2 0 0px;
+  padding: 10 20px;
+
+}
+#d{
+	height: 15%;
+	width: 450%;
+	background-color: #FFF5EE;
+	font-size: 200%;
+	font-family: 'Inconsolata', monospace;
+
+}
+.box{
+	background-color: #FFDDDD;
+	height: 50%;
+	width: 20%;
+	border: 2px solid #FF9797;
+    margin-top: 100px;
+    margin-left: 500px;
+    padding: 5 5px;
+}
+.keys{
+  margin: 2 0 0px;
+  padding: 10 20px;
+  font-size: 60%;
+}
+.black{
+	background-color: #FF9797;
+	height: 15%;
+	width: 25%;
+	font-size: 400%;
+	font-family: 'Inconsolata', monospace;
+}
+.pink{
+	background-color: #EFA694;
+	height: 15%;
+	width: 25%;
+	font-size: 400%;
+	font-family: 'Inconsolata', monospace;
+}
+.orange{
+	background-color: #EFA694;
+	height: 15%;
+	width: 25%;
+	font-size: 400%;
+	font-family: 'Inconsolata', monospace;
+}
